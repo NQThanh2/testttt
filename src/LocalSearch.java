@@ -43,4 +43,7 @@ public class LocalSearch {
 			System.out.println("Cannot find goal state! Best state is: "+ node.state);
 		}
 	}
+	public static void main(String[] args) {
+		System.out.println();
+	}
 }
